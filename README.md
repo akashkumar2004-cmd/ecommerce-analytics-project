@@ -207,11 +207,11 @@ ecommerce-sales-data-analysis/
 │   └── processed/            # Integrated analysis dataset
 │
 ├── notebooks/
-│   ├── data_inspection(1).ipynb
+│   ├── data_inspection.ipynb
 │   ├── investigate_and_handle_duplicated_records.ipynb
 │   ├── check_data_consistency.ipynb
-│   ├── 04_data_preparation_integration.ipynb
-│   └── 05_exploratory_data_analysis.ipynb
+│   ├── data_preparation_integration.ipynb
+│   └── exploratory_data_analysis.ipynb
 │
 ├── output/
 │   ├── chart/                # Exported PNG charts
